@@ -21,10 +21,10 @@
       "crdt"
     ],
     "peerDependencies": {
-      "firebase": "^9.17.1",
-      "yjs": "^13.5.48",
+      "firebase": "^11.4.0",
+      "yjs": "^13.6.27",
       "simple-peer": "^9.11.1",
-      "y-protocols": "^1.0.5"
+      "y-protocols": "^1.0.6"
     },
     "scripts": {
       "build": "rollup --config"
